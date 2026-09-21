@@ -74,4 +74,4 @@ python project.py
 Bash
 pytest test_project.py
 🎓 Verified Certificate & Final Project
-Developed by Tara Latifi as the capstone final project for CS50P: CS50's Introduction to Programming with Python (Harvard University).
+Developed by Tara Latifi as the capstone final project for CS50P: CS50's Introduction to Programming with Python (Harvard University).capstone final project for CS50P: CS50's Introduction to Programming with Python (Harvard University).
